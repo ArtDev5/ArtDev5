@@ -6,4 +6,4 @@ Almejo ser um Desenvolvedor FullStack. :computer:
 Email: artur_antoniopw01@hotmail.com
 LinkedIn: https://www.linkedin.com/in/dev-artur-silva/
 
-Atualmente estou me aperfeiçoando em Python, logo logo partindo para Django, e me familiarizando com Front-end, nas linguagens HTML, CSS E JS.
+Tenho 1 ano de experiência com python. Conheço o básico de HTML, CSS e Javascript, mas atualmente estou partindo para Java por conta da universidade.
