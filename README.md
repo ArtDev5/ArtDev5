@@ -1,7 +1,7 @@
 <h1 align="center">Artur Silva</h1>
 <h3 align="center">👋 Hello, World! 🌎</h3>
-<h3 align="center">✨ I'm a jr software developer, gamer, lover of random conversation and just a life learner! ✨</h3>
-<h3 align="center">📚 Graduating from the 5th period of Information Systems. 📚</h3>
+<h3 align="center">✨ I'm a software developer, gamer, lover of random conversation and just a life learner! ✨</h3>
+<h3 align="center">📚 Graduating from the 8th period of Information Systems. 📚</h3>
 <h3 align="center">✨ Constantly studying to reach my goals! ✨</h3>
 
 
@@ -17,7 +17,7 @@
 
 <h4 align="left">Tools</h4>
 
-<a href="https://spring.io/projects/spring-boot" target="_blank"> <img src="https://spring.io/images/spring-logo-9146a4d3298760c2e7e49595184e1975.svg" alt="spring-boot" width="90" height="60"/> </a>
+<a href="https://spring.io/" target="_blank"> <img src="https://e4developer.com/wp-content/uploads/2018/01/spring-boot.png" alt="spring-boot" width="90" height="60"/> </a>
 <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
 <a href="https://www.postgresql.org/" target="_blank"> <img src="https://raw.githubusercontent.com/docker-library/docs/01c12653951b2fe592c1f93a13b4e289ada0e3a1/postgres/logo.png" alt="postgresql" width="50" height="40"/> </a>
 <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/docker-library/docs/01c12653951b2fe592c1f93a13b4e289ada0e3a1/mysql/logo.png" alt="mysql" width="50" height="40"/> </a>
