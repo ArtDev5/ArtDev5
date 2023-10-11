@@ -27,8 +27,8 @@
 <br>
 
 # My data
-![YOUR github stats](https://github-readme-stats.vercel.app/api?username=ArtDev5&show_icons=true&theme=radical) 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArtDev5&layout=compact&theme=radical)](https://github.com/ArtDev5/github-readme-stats)
+![YOUR github stats](https://github-readme-stats.vercel.app/api?username=turzando&show_icons=true&theme=radical) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=turzando&layout=compact&theme=radical)](https://github.com/ArtDev5/github-readme-stats)
 
 <br>
 
